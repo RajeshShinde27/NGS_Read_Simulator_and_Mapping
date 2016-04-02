@@ -99,3 +99,5 @@ Alignment: bwa aln -n 0.01 -N hs_ref_GRCh38.p2_chr1.fa RandomSeq.fastq > with_\ 
 - Error rate 0.01.
 
 
+Thanks.
+
