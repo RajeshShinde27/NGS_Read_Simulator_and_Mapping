@@ -23,6 +23,8 @@ try: fh = open("hs_ref_GRCh38.p2_chr1.fa", "r") except FileNotFoundError: print(
 try: fh2 = open("qual_values_2","r") except FileNotFoundError: print("Dummy quality value file is not present in the working directory!")
 
 try: fout = open("RandomSeq.fastq","w") except FileExistsError: print("Simulated Fastq file is already present!")
+
+Thanks..
 Global Variables
 
 seq_string = '' qual_string = '' No_of_seq = 100000 No_of_iterations = No_of_seq/2 read_length = 50
