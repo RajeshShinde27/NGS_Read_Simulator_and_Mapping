@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 __author__ = "Rajesh Shinde"
-__credits__ = ["Rajesh Shinde", "Aditya Pathak"]
+__credits__ = ["Rajesh Shinde"]
 __version__ = "1.0"
 __email__ = "rajesh27071992@gmail.com"
 __status__ = "Development"
